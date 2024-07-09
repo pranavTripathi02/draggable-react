@@ -11,7 +11,7 @@ Uses [react-draggable](https://www.npmjs.com/package/react-draggable)
 - [Deployed on Netlify (Click Here)](https://incomparable-sfogliatella-367376.netlify.app/)
 
 ## Demo
-![./assets/draggable_Demo.gif]
+![Demo gif](./assets/draggable_Demo.gif)
 
 # Prerequisites
 
